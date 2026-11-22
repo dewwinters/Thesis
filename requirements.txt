@@ -1,0 +1,14 @@
+google-genai
+gTTS
+python-dotenv
+sounddevice
+soundfile
+numpy
+audiotsm
+chromadb
+pypdf
+python-docx
+pytesseract
+pdf2image
+pillow
+ddgs

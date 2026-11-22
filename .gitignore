@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Data
+data/chroma_db/
+data/logs/
+
+# Poppler
+poppler-26.09.0/
